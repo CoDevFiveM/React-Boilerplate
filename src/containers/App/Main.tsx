@@ -1,6 +1,7 @@
 ///////////////////////////
 ///// Imports /////
 ///////////////////////////
+import React from 'react';
 import { Nui } from '../Nui/NuiHandler';
 import { store } from '../../index';
 import Default from '../Default/Main';

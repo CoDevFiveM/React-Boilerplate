@@ -2,11 +2,11 @@
 ///// Imports /////
 ///////////////////////////
 import { combineReducers } from 'redux';
-import Default from './containers/Default/States';
+import Default from './containers/Default/Reducer';
 
 ///////////////////////////
 ///// Reducer /////
 ///////////////////////////
 export default combineReducers({
-	Default,
+	Default
 });

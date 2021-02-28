@@ -5,6 +5,8 @@ const initialState = {
 	isShowing: true,
 };
 
+
+
 ///////////////////////////
 ///// Management /////
 ///////////////////////////
